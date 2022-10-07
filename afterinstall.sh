@@ -1,2 +1,2 @@
 cd /home/react_aws
-npm -f install
+sudo npm -f install
